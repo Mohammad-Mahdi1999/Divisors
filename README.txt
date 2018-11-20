@@ -1,4 +1,3 @@
 # Divisors
 Divisors of a number!
-Open "Debug" folder
-Run "Divisors" (.exe)
+Using while loop !
